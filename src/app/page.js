@@ -17,7 +17,7 @@ export const metadata = {
     title: "Top General Physicians – Apollo Clone",
     description:
       "Browse and book India's best general physicians and internal medicine experts online.",
-    url: "https://your-app-url.com", // replace with your deployed URL
+    url: "https://appolo-clone.vercel.app/", // replace with your deployed URL
     siteName: "Apollo Clone",
     images: [
       {
